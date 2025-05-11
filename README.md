@@ -94,5 +94,5 @@ Citations:
 
 Original Approved Fib exercise js and test js file, which have been pasted into this repo.
 
-https://javascripttypescriptbooks.com/19/11/1/4/
+JavaScript, in. “Tail Recursion in JavaScript: Optimizing Recursive Functions.” JavaScript & TypeScript Books, 25 Oct. 2024, javascripttypescriptbooks.com/19/11/1/4/. Accessed 11 May 2025.
 
